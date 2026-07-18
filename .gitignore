@@ -1,0 +1,18 @@
+# Python compiler cache
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Data preprocessing assets (Keep your repo light!)
+audios/
+videos/
+jsons/
+newjsons/
+
+# Database engine persistence logs
+chroma_db/
+
+# Configuration files
+.env
